@@ -1,11 +1,11 @@
 >------------------------------------------------------
-> # Hello
+> #Hello
 > Theese are my *first-projects* so please be good to me. 
 > Just learnig basics of **JAVA**.
->------------------------------------------------------
+
 
 In **HTML** folder:
-- I'm trying to make a webpage with HTML CSS and JS.
+- I'm trying to make a very simple webpage with HTML and basics of CSS and JS.
 
 In **JAVA** folder:
 - I've wrote a simple function to roll dices in Monopoly;
